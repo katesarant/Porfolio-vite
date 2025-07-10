@@ -1,4 +1,4 @@
-# 🚀 Vue 3 Portfolio
+# 🚀 Vue 3 Portfolio app
 
 A personal portfolio app built with **Vue 3**, **Tailwind CSS**, and **Axios**. It features modular components, dynamic content, and mock API integration via **JSON Server**.
 
