@@ -1,0 +1,79 @@
+{
+  "portfolio": [
+    {
+      "id": "e5e4",
+      "fullname": "Jonny Cage",
+      "jobTitle": "Project Manager",
+      "description": "Error fetching portfolio: 404 Not FoundError fetching portfolio: 404 Not FoundError fetching portfolio: 404 Not FoundError fetching portfolio: 404 Not FoundError fetching portfolio: 404 Not FoundError fetching portfolio: 404 Not FoundError fetching portfolio: 404 Not Found",
+      "skills": [
+        "CSS3",
+        "JavaScript",
+        "C#",
+        "ASP.NET Razor Pages",
+        "Laravel",
+        "Python",
+        "Git",
+        "REST APIs",
+        "Amazon Cloud Practitioner"
+      ],
+      "exp_prof": [],
+      "contact": {
+        "github": "https://github.com/greyby",
+        "linkdin": "https://linkedin.com/in/kkate_sant",
+        "email": "test@test.com"
+      }
+    },
+    {
+      "id": "1ca1",
+      "fullname": "Jonny Cage",
+      "jobTitle": "Project Manager",
+      "description": "adadadadads",
+      "skills": [
+        "Basic Networking",
+        "Responsive Design",
+        "B2B Integration",
+        "Git"
+      ],
+      "exp_prof": [
+        {
+          "date_from": "2025-07-06",
+          "date_to": "2025-07-10",
+          "position": "rakdadada",
+          "company_name": "Donor inc."
+        }
+      ],
+      "contact": {
+        "github": "https://github.com/greyby",
+        "linkdin": "https://linkedin.com/in/kkate_sant",
+        "email": "test@test.cu"
+      }
+    },
+    {
+      "id": "591f",
+      "fullname": "Jonny Cage",
+      "jobTitle": "Project Manager",
+      "description": "In this tutorial, we've demonstrated how to perform form validation in Vue 3 using Vuelidate, along with the powerful PrimeVue UI library. With the Composition API and script setup, we've created a clean and efficient solution for form validation.\n\nThis approach allows you to easily handle form validation in Vue.js projects, making your code more maintainable and user-friendly.",
+      "skills": [
+        "Basic Networking",
+        "Linux (Desktop & Command Line)",
+        "WordPress",
+        "C#",
+        "HTML5",
+        "Laravel"
+      ],
+      "exp_prof": [
+        {
+          "date_from": "2025-05-04",
+          "date_to": "2025-07-05",
+          "position": "R developer",
+          "company_name": "Donor inc."
+        }
+      ],
+      "contact": {
+        "github": "https://github.com/greyby",
+        "linkdin": "https://linkedin.com/in/kkate_sant",
+        "email": "test@test.com"
+      }
+    }
+  ]
+}

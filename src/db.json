@@ -1,0 +1,76 @@
+{
+  "messages": [
+    {
+      "id": "0",
+      "fullname": "katerina sarantopoulou",
+      "email": "test@test.com",
+      "message": "This is a test email"
+    },
+    {
+      "id": "1",
+      "fullname": "Peter Molan",
+      "email": "test23@test.com",
+      "message": "This is a test email"
+    },
+    {
+      "id": "38e9",
+      "fullname": "Jone Doe",
+      "email": "testDoe@test.com",
+      "message": "Hello there !"
+    },
+    {
+      "id": "7083",
+      "fullname": "646464645",
+      "email": "testDoe@test.com",
+      "message": "nghnghgh"
+    },
+    {
+      "id": "849d",
+      "fullname": "3131312",
+      "email": "testDoe@test.com",
+      "message": "313131"
+    },
+    {
+      "id": "4718",
+      "fullname": "dadada",
+      "email": "dadasda@fd.g",
+      "message": "dadadas"
+    },
+    {
+      "id": "1916",
+      "fullname": "dadad",
+      "email": "dadasda@fd.g",
+      "message": "dada"
+    },
+    {
+      "id": "123c",
+      "fullname": "Kate Sarant",
+      "email": "social@amazon.io",
+      "message": "dadadada"
+    },
+    {
+      "id": "8f26",
+      "fullname": "Kate Sarant",
+      "email": "social@amazon.io",
+      "message": "One more msg"
+    },
+    {
+      "id": "efa5",
+      "fullname": "Katerina Sarantopoulou",
+      "email": "dadasda@fd.gr",
+      "message": "ADADADADAADAD"
+    },
+    {
+      "id": "c682",
+      "fullname": "Man Itsa",
+      "email": "Man@dadka.com",
+      "message": "adjaojdaoidj"
+    },
+    {
+      "id": "23c4",
+      "fullname": "Mat Tap",
+      "email": "dem@gmail.com",
+      "message": "jgozljczakcjcccsac"
+    }
+  ]
+}
