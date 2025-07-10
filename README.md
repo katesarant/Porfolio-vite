@@ -47,5 +47,5 @@ npm run api
 
 ## 📬 Contact
 - GitHub: [@katesarant](https://github.com/katesarant)
-- LinkedIn: Katerina Sarantopoulou  
+- LinkedIn: [Katerina Sarantopoulou] (https://www.linkedin.com/in/kate-sarant)
 - License: MIT
